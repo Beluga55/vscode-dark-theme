@@ -1,0 +1,22 @@
+{
+  "name": "purple-dark-theme-justin",
+  "displayName": "Justin-Dark-Theme",
+  "description": "purple dark theme",
+  "publisher": "Ramly",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
